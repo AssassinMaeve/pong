@@ -1,4 +1,4 @@
-# Pong Game - README
+# Pong Game
 
 ## Introduction
 This is a simple Pong game implemented in Python using the Pygame library. The game features a ball that bounces off the walls and paddles, an AI-controlled opponent, and player controls for movement.
